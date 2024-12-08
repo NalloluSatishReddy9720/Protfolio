@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.glow{
+    transition: 0.4s ease-in-out;
+    
+
+}
+.glow:hover{
+    box-shadow: rgba(228, 16, 218, 0.929) 0px 5px 15px;
+}
+
+.pic{
+    transition: 0.5s ease-in;
+    box-shadow:rgba(239, 251, 6, 0.961) 0px 12px 28px 0px, rgba(9, 66, 190, 0.573) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.pic:hover{
+    transition: 0.5s ease-in;
+    box-shadow:rgba(88, 251, 6, 0.961) 0px 12px 28px 0px, rgba(9, 66, 190, 0.573) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    
+}
+
+.card{
+    box-shadow: rgba(228, 16, 218, 0.929) 0px 5px 15px; 
+}
