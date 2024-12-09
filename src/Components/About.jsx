@@ -16,7 +16,7 @@ function About() {
           <div className='flex items-center justify-center'>
             <div className='flex space-x-2'>
               
-             <a href="https://drive.google.com/file/d/1QWo5vDq_O6-2nlIdNOeUIPY8vd1PGXm6/view?usp=drivesdk" target='_blank'><button   className='glow shadow-xl hover:bg-fuchsia-800 hover:shadow-fuchsia-800 text-white border-2 p-2 uppercase border-fuchsia-800 rounded-lg'>Resume</button></a> 
+             <a href="https://drive.google.com/file/d/1Gle9F-2OJuUrDDVhBsRyJhNrzsiNzTr-/view?usp=sharing" target='_blank'><button   className='glow shadow-xl hover:bg-fuchsia-800 hover:shadow-fuchsia-800 text-white border-2 p-2 uppercase border-fuchsia-800 rounded-lg'>Resume</button></a> 
             </div>
           </div>
         </div>    

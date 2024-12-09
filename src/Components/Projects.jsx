@@ -78,7 +78,7 @@ function Projects() {
                 <div className="h-52 bg-blue-950 pl-16">
                   <div className="card h-32 w-52   border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
-                      href=""
+                      href="https://github.com/NalloluSatishReddy9720/Protfolio" target='_blank'
                       className="text-yellow-400 hover:text-yellow-500 rounded-full p-2"
                     >
                       <img className='w-full ' src={portfolio} alt="" />
