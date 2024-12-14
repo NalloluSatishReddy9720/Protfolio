@@ -49,155 +49,155 @@ function Skills() {
               <SwiperSlide>
                 
                 <div className="h-52  bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                    <a
                       href=""
                       className="text-orange-400 hover:text-orange-500 rounded-full p-2 "
                     >
-                      <ImHtmlFive2 className="text-[48px]" />
+                      <ImHtmlFive2 className="text-[55px]" />
                     </a>
                     
                     
                   </div>
                   <div >
-                    <h1 className="mt-4 px-4">Html</h1>
+                    <h1 className="mt-4 px-9">Html</h1>
                   </div>
                   
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52 bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-blue-400 hover:text-blue-500 rounded-full p-2"
                     >
-                      <FaCss3Alt className="text-[48px] " />
+                      <FaCss3Alt className="text-[55px] " />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-4">CSS</h1>
+                    <h1 className="mt-4 px-10">CSS</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52 bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-yellow-400 hover:text-yellow-500 rounded-full p-2"
                     >
-                      <SiJavascript className="text-[48px]" />
+                      <SiJavascript className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-1">Javascript</h1>
+                    <h1 className="mt-4 px-6">Javascript</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 
                 <div className="h-52 bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-blue-400 hover:text-blue-500 rounded-full p-2"
                     >
-                      <GrReactjs className="text-[48px]" />
+                      <GrReactjs className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-2">Reactjs</h1>
+                    <h1 className="mt-4 px-7">Reactjs</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52 bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2  border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2  border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-orange-500 hover:text-orange-600  rounded-full p-2"
                     >
-                      <FaJava className="text-[48px]" />
+                      <FaJava className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-4">Java</h1>
+                    <h1 className="mt-4 px-10">Java</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52 bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-orange-400 hover:text-orange-500 rounded-full p-2"
                     >
-                      <FaGitAlt className="text-[48px]" />
+                      <FaGitAlt className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-5">Git</h1>
+                    <h1 className="mt-4 px-11">Git</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52  bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-slate-600 hover:text-slate-800 rounded-full p-2"
                     >
-                      <FaGithub className="text-[48px]" />
+                      <FaGithub className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-3">Github</h1>
+                    <h1 className="mt-4 px-8">Github</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52  bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-blue-400 hover:text-blue-500 rounded-full p-2"
                     >
-                      <SiTailwindcss className="text-[48px]" />
+                      <SiTailwindcss className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-1">Tailwind</h1>
+                    <h1 className="mt-4 px-7">Tailwind</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52  bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-green-500 hover:text-green-600 rounded-full p-2"
                     >
-                      <BiLogoSpringBoot className="text-[48px]" />
+                      <BiLogoSpringBoot className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4">Springboot</h1>
+                    <h1 className="mt-4 px-4">Springboot</h1>
                   </div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="h-52  bg-blue-950 pl-16">
-                  <div className="card h-16 w-16 border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
+                  <div className="card h-28 w-28  border-2 border-pink-400 rounded-lg glow items-center flex justify-center">
                     <a
                       href=""
                       className="text-blue-400 hover:text-green-600 rounded-full p-2"
                     >
-                      < GrMysql className="text-[48px]" />
+                      < GrMysql className="text-[55px]" />
                     </a>
                   </div>
                   <div>
-                    <h1 className="mt-4 px-4">MySql</h1>
+                    <h1 className="mt-4 px-8">MySql</h1>
                   </div>
                 </div>
               </SwiperSlide>
