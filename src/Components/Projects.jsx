@@ -15,7 +15,7 @@ import portfolio from '../assets/portfolio.png'
 function Projects() {
   return (
     <>
-      <div id="Projects" className="bg-blue-950">
+      <div id="Projects" className="bg-blue-950 w-full overflow-hidden">
         <h1 className="text-white text-[20px] font-semibold mb-8 leading-normal text-center">
           Projects
         </h1>

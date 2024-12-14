@@ -23,7 +23,7 @@ import "swiper/css/autoplay"
 function Skills() {
   return (
     <>
-      <div id="Skills" className="bg-blue-950">
+      <div id="Skills"  className="bg-blue-950 w-full overflow-hidden">
         <h1 className="text-white text-[20px] font-semibold mb-8 leading-normal text-center shadow-2xl ">
           Skills
         </h1>
