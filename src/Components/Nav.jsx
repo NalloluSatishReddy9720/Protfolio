@@ -37,9 +37,9 @@ function Nav() {
           <div className="flex items-center flex-1">
             <span><img src={logo} className="h-14 " alt="" /></span>
           </div>
-          <div className="lg:flex md:flex lg:flex-1 items center justify-end font-normal hidden">
+          <div className="lg:flex md:flex lg:flex-1 items center justify-end  font-normal hidden">
             <div className="flex-10">
-              <ul className="flex gap-8  text-[10px]">
+              <ul className="flex gap-8  text-[15px]">
                 <Link spy={true} smooth={true} to="Home">
                   <li className="hover:text-blue-600  transition border-b-2 border-blue-950 hover:border-blue-600 cursor-pointer">Home</li>
                 </Link>
