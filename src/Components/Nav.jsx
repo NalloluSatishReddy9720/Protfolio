@@ -9,7 +9,7 @@ function Nav() {
     const handleClick = ()=> setClick(!click);
   const content = (
     <>
-      <div className="lg:hidden block absolute top-12 w-1/4 left-15  right-0 bg-blue-900 overflow-hidden">
+      <div className="lg:hidden block absolute top-12 w-1/4 left-15  right-0 bg-blue-950 overflow-hidden">
         <ul className="text-center text-sm p-0">
           <Link spy={true} smooth={true} to="Home">
             <li  className="my-1 py-1 border-b border-blue-900 hover:bg-blue-900 hover:rounded hover:cursor-pointer">Home</li>
