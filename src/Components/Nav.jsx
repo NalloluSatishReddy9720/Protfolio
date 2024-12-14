@@ -9,8 +9,8 @@ function Nav() {
     const handleClick = ()=> setClick(!click);
   const content = (
     <>
-      <div className="lg:hidden block absolute top-12 w-1/4 left-15  right-1 bg-blue-950">
-        <ul className="text-center text-xl p-12">
+      <div className="lg:hidden block absolute top-12 w-1/4 left-15  right-0 bg-blue-900 overflow-hidden">
+        <ul className="text-center text-sm p-0">
           <Link spy={true} smooth={true} to="Home">
             <li  className="my-1 py-1 border-b border-blue-900 hover:bg-blue-900 hover:rounded hover:cursor-pointer">Home</li>
           </Link>
@@ -33,13 +33,13 @@ function Nav() {
   return (
     <>
       <nav className="bg-blue-950">
-        <div className="h-10vh flex justify-between z-50 text-white lg:py-5 px-20 py-4 border-b border-slate-900">
+        <div className="h-10vh flex justify-between z-50 text-white lg:py-5 px-16 py-4 border-b border-slate-900">
           <div className="flex items-center flex-1">
-            <span><img src={logo} className="h-14" alt="" /></span>
+            <span><img src={logo} className="h-14 " alt="" /></span>
           </div>
           <div className="lg:flex md:flex lg:flex-1 items center justify-end font-normal hidden">
             <div className="flex-10">
-              <ul className="flex gap-8 mr-16 text-[18px]">
+              <ul className="flex gap-8  text-[10px]">
                 <Link spy={true} smooth={true} to="Home">
                   <li className="hover:text-blue-600  transition border-b-2 border-blue-950 hover:border-blue-600 cursor-pointer">Home</li>
                 </Link>

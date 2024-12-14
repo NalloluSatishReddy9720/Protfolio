@@ -17,7 +17,7 @@ function Home() {
   
   
   return (
-    <div id="Home"  className='bg-blue-950 lg:px-36 px-10 lg:py-0 py-20 pt-0 text-center gap-5 lg:text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center'>
+    <div id="Home"  className='bg-blue-950 lg:px-36 px-10 lg:py-0 py-10 pt-0 text-center gap-5 lg:text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center overflow-hidden'>
       <div className="h-full lg:py-16 flex flex-col justify-center lg:items-start items-center text-white pt-0">
         <h1 data-aos="fade-right" className='text-white text-[52px] font-semibold mb-8 leading-normal'>Hi,<br></br>I'm <span className='text-yellow-400'>Nallolu Satish Reddy</span> a  <span>fullstack Developer</span></h1>
         <div data-aos="fade-up" className='flex mt-8 gap-2'>
@@ -36,7 +36,7 @@ function Home() {
           </div>
         </div>      
       </div>
-      <img data-aos="fade-down" src={profile} width={290} height={290} className='rounded-full pic border-1.5 border-black' alt="" />
+      <img data-aos="fade-down " src={profile} width={250} height={250} className='mt-5 rounded-full pic border-1.5 border-black' alt="" />
     </div>
   )
 }
