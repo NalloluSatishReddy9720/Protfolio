@@ -8,7 +8,7 @@ import lighteffect from '../assets/lighteffect.png'
 import amazonclone from '../assets/amazon.png'
 import myntraclone from '../assets/myntra.png'
 import digitalclock from '../assets/digitalclock.png'
-import portfolio from '../assets/portfolio.png'
+import portfolio from '../assets/frontend.png'
 
 
 
